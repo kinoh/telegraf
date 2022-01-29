@@ -170,6 +170,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/riak"
 	_ "github.com/influxdata/telegraf/plugins/inputs/riemann_listener"
 	_ "github.com/influxdata/telegraf/plugins/inputs/salesforce"
+	_ "github.com/influxdata/telegraf/plugins/inputs/sensor_dht"
 	_ "github.com/influxdata/telegraf/plugins/inputs/sensors"
 	_ "github.com/influxdata/telegraf/plugins/inputs/sflow"
 	_ "github.com/influxdata/telegraf/plugins/inputs/smart"
