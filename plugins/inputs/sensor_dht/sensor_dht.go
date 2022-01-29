@@ -3,9 +3,10 @@ package sensor_dht
 import (
 	"fmt"
 
+	"github.com/MichaelS11/go-dht"
+
 	"github.com/influxdata/telegraf"
 	"github.com/influxdata/telegraf/plugins/inputs"
-	"github.com/MichaelS11/go-dht"
 )
 
 type SensorDht struct {

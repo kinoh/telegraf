@@ -3,10 +3,11 @@ package sensor_mhz19
 import (
 	"fmt"
 
-	"github.com/influxdata/telegraf"
-	"github.com/influxdata/telegraf/plugins/inputs"
 	z19 "github.com/eternal-flame-AD/mh-z19"
 	"github.com/tarm/serial"
+
+	"github.com/influxdata/telegraf"
+	"github.com/influxdata/telegraf/plugins/inputs"
 )
 
 type SensorMhz19 struct {
