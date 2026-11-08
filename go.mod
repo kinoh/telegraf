@@ -33,6 +33,7 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Mellanox/rdmamap v1.2.0
+	github.com/MichaelS11/go-dht v0.1.1
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/SAP/go-hdb v1.19.3
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -94,6 +95,7 @@ require (
 	github.com/elastic/go-elasticsearch/v8 v8.19.7
 	github.com/elastic/go-elasticsearch/v9 v9.5.2
 	github.com/emiago/sipgo v1.6.0
+	github.com/eternal-flame-AD/mh-z19 v0.0.0-20190331151235-afa8347325ff
 	github.com/facebook/time v0.0.0-20250903103710-a5911c32cdb9
 	github.com/fatih/color v1.19.0
 	github.com/go-ldap/ldap/v3 v3.4.15
@@ -207,6 +209,7 @@ require (
 	github.com/srebhan/cborquery v1.0.4
 	github.com/srebhan/protobufquery v1.0.4
 	github.com/stretchr/testify v1.12.1
+	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
 	github.com/tdrn-org/go-fritzsmarthome v0.1.1
 	github.com/tdrn-org/go-hue v1.2.3
@@ -626,6 +629,8 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.12.1 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
+	periph.io/x/conn/v3 v3.7.3 // indirect
+	periph.io/x/host/v3 v3.8.5 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
