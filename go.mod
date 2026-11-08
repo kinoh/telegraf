@@ -33,7 +33,6 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/Mellanox/rdmamap v1.2.0
-	github.com/MichaelS11/go-dht v0.1.1
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/SAP/go-hdb v1.19.3
 	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
@@ -629,8 +628,6 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.12.1 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
-	periph.io/x/conn/v3 v3.7.3 // indirect
-	periph.io/x/host/v3 v3.8.5 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
